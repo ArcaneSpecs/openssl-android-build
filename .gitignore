@@ -1,0 +1,5 @@
+/toolchain/*
+/libs/*
+/openssl-*
+.directory
+.DS_Store
